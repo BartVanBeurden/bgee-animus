@@ -5,7 +5,8 @@ Hi, thanks for trying out the mod!
 
 ## Installation Instructions
 
-Extract the mod into the '00766' directory and execute 'Setup-Animus.exe'.
+Download the latest release [here](https://github.com/BartVanBeurden/bgee-animus/releases/download/1.1/Animus.1.1.zip)  
+Extract the mod into the `00766` directory and execute `Setup-Animus.exe`.  
 Follow the instructions (press 1 to install).
 
 ## Credits
