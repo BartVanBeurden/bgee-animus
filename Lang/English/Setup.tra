@@ -1,0 +1,35 @@
+@100	= ~Animus~
+@102	= ~An outwardly nondescript enchanted longsword, the only thing of note about this blade is the name carved into the blade: Animus. While you bear the blade, you feel oddly connected to it.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d8+1 (slashing)
+Speed Factor: 5
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 4~
+
+@104	= ~Animus +2~
+@106	= ~Now your link to the blade has been discovered and your ties have been strengthened, Animus has taken the form of a more elegant sword not dissimilar to that of an elvish moonblade. The weapon's enchantment has been strengthened and while you wield it you find your memory and your finesse are stronger than is normal.
+
+STATISTICS:
+
+Equipped abilities:
+ - +1 dexterity
+ - Can memorize one extra arcane spell of each level.
+
+THAC0: +2
+Damage: 1d8+2 (slashing)
+Speed Factor: 5
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 6 Strength
+ 
+Weight: 4~
+
+@200	= ~Converse~

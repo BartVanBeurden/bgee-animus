@@ -1,0 +1,153 @@
+@2000 	= ~Greetings wielder. Do you wish to converse?~
+@2001	= ~You said you would like to talk about me last time we talked.~
+@2002	= ~I would like to know a little more about you, Animus.~
+@2003	= ~You're not particularly powerful, sword, and I begin to tire of the novelty of a chatty weapon. Convince me to keep you.~
+@2004	= ~Is there any way I can make you more powerful?~
+@2005	= ~I know of my heritage now, Animus.~
+@2006	= ~Actually, never mind.~
+
+@2010 	= ~I did indeed - I always like to know a little about each of my masters. What would you be comfortable discussing?~
+@2011	= ~My home, Candlekeep. ~
+@2012	= ~My father, Gorion.~
+@2013	= ~Actually, I've changed my mind. Let's discuss something else.~
+
+@2020 	= ~Candlekeep? The library keep on the Sword Coast? I was not aware many children were raised there. An odd place to grow up, to be sure. Did you enjoy it?~
+@2021	= ~I loved it. The monks there were wonderful, scholarly people and I learned much under their tutelage. Even now I miss it.~
+@2022	= ~It was wonderful. The monks were fools - easy to manipulate. The doddering imbeciles were wrapped around my finger.~
+@2023	= ~I hated it. The monks were good people, but I always chafed under their rules and regulations. I miss them on occasion, but in truth, I feel more comfortable free of them.~
+@2024	= ~I despised Candlekeep and it's feeble-minded occupants. Those do-gooder monks and priests will be forever held in my contempt. I am forever glad to be free of such fools. The day I was set free to make my own mark on this world will always be a day dear to me.~
+
+@2030	= ~Even so, you must have keenly felt the age divide amongst you and the monks.~
+@2040	= ~Even so, you must have occasionally grown bored with such fools. ~
+@2050	= ~I can sympathise, certainly - I too know the suffering of being caged. ~
+
+@2060	= ~Were there, perhaps, others of your age with whom you could pass your time with?~
+@2061	= ~There was no one there with whom I had any desire to converse.~
+@2062	= ~I suppose there was always Imoen.~
+
+@2070	= ~I see. Perhaps we should talk of other things?~
+
+@2080	= ~Imoen? Would you like to discuss her further?~
+@2081	= ~Not really.~
+@2082	= ~She's been my friend for years. When we were younger, the things we would get up to would drive the poor monks crazy!~
+@2083	= ~She's an old friend of mine, but she was always a little immature. She used to get on the monks nerves an awful lot.~
+@2084	= ~A fool of a girl who I had the great misfortune to grow up with. She was good for the occasional laugh, but no more.~
+@2085	= ~An idiotic girl of no real substance. Too weak-willed to make her way in life on her own, she followed me out of Candlekeep.~
+
+@2090	= ~I see. In all honesty, I have little interest in your companions, be they current or former-but I thank you for your openness nonetheless. I feel as if I know you a little better now.~
+
+
+
+@2100	= ~Gorion? What did you think of him?~
+@2101	= ~He was a great mage, and a greater father.~
+@2102	= ~He was powerful, and for that I respected him.~
+@2103	= ~He was somewhat too...noble...for my tastes, yet he is the man who raised me and for that I held him in higher regard than I otherwise would have.~
+
+@2110	= ~“Was”? What became of him?~
+@2111	= ~The memory is too painful to speak of. Please, I would have some time to myself if you don't mind...~
+@2112	= ~He was cruelly slain by a powerful warrior and his cronies.~
+@2113	= ~He died.~
+
+@2120	= ~Ah. My condolences, wielder. You must miss him terribly.~
+@2121	= ~I would rather not speak of this.~
+@2122	= ~Every day. It is a burden from which I fear I shall never recover.~
+@2123	= ~Not really. He was a good father and I loved him, but I've always felt it's better not to dwell on tragedies. I am sure that is not what he would have wanted.~
+@2124	= ~Regret and misery are for the weak. I do not concern myself with the past.~
+
+@2130	= ~That saddens me to hear, wielder. Perhaps we should cease our conversation now, I fear we tread upon painful ground.~
+@2140	= ~Wise of you. I agree, to dwell on such memories is unwise.~
+
+
+
+@2150	= ~A little...a little about me? This is most unexpected, I've never had a wielder who has taken an interest in my own past.~
+
+@2160	= ~I will answer any questions you care to ask, if I can.~
+@2161	= ~How old are you?~
+@2162	= ~How were you made?~
+@2163	= ~Do you have any stories to tell about previous owners?~
+@2164	= ~Why were you in a dormant state before I touched you?~
+@2165	= ~You have an odd sense of morality, do you not?~
+@2166	= ~Actually, let us speak of something else.~
+
+@2170	= ~Truth be told, I am not quite sure. My consciousness is greatly weakened every time my wielder passes away, until I am wielded once again, and thus I find it very difficult to ascertain details such as time.~
+
+@2180	= ~I was not "made", at least not in the typical sense. I was once a man, a powerful servant of a god. As I died, my god rewarded me for my years of service by granting me immortality - if you can call being trapped in a sword for all eternity immortality.~
+@2181	= ~Which god?~
+@2182	= ~A cruel god indeed, to consign you to such a fate.~
+
+@2190	= ~Is it not clear? I was made immortal by… by… what!? No! My memories are hazy , obscured...my apologies, wielder. I fear I cannot answer your question.~
+
+@2200	= ~Cruel? No, at the time it was a great kindness. I was grateful to him. You see, I was an ardent follower of his every teaching. It was only after years of service that I began to tire of being wielded by bloodthirsty warrior after bloodthirsty warrior, useful only as an instrument of murder. I assure you, my lord's act was seen as a sign of favor to me… and yet I find the details hazy. I cannot seem to recall why I was granted such an immortality, nor can I recall the name of my patron.~
+
+@2210	= ~This… this is most troubling.~
+@2211	= ~You can't remember the God you worshipped? How odd.~
+@2212	= ~Tired of bloodshed, blade? A pity, for you will see more in the days to come. Far more.~
+@2213	= ~I am pleased that you are no longer such a bloodthirsty individual. I fear I would be uncomfortable wielding such a cruel instrument.~
+
+@2220	= ~I am aware of the oddity of the situation, wielder. I beg you, leave me be for a time. My memories are hazy and this troubles me greatly.~
+
+@2230	= ~Perhaps I shall, wielder. I pray that is not the case, but I accept that in the hands of one such as yourself, it is an inevitability. Now I beg you, leave me be for a time. My memories are hazy and my mind is troubling me.~
+
+@2240	= ~I am pleased you agree with my new outlook, wielder. You may be the first of my masters to share with me such a sentiment, and I assure you that I am grateful for it. However, I must implore you to allow me some time to myself. My memories - or lack thereof - are a disturbing prospect and I fear I require some time to consider my conundrum.~
+
+@2250	= ~Ah, yes! I have a few amusing tales to tell, and I would be glad to share them!~
+
+@2260	= ~Would you care to learn the story of Gaulm Bloodspear, or perhaps the tragedy of Nazath Shadowbreaker? Perhaps the exploits of the savage Grimscar, or my account of the machinations of Valas the Obscured? Or does the tale of Beread, Lady of Night, hold more appeal to you?~
+@2261	= ~Tell me about Gaulm Bloodspear.~
+@2262	= ~Tell me the tale of Nazath Shadowbreaker.~
+@2263	= ~This Grimscar fellow sounds interesting.~
+@2264	= ~Beread, Lady of the Night? Tell me more.~
+@2265	= ~Valas the Obscured? Sounds like a devious fellow.~
+@2266	= ~I would like to ask something else.~
+
+@2270	= ~Gaulm was a villainous orcish Berserker of unusual intelligence and wisdom, named not for his choice of weapon - I can attest to his preference for swords-but rather his bloodying of the great mage's tower Irmspear, a construct created by enslaved elementals under the command of the Lich Xythos.~
+@2271	= ~Xythos ruled great swathes of the Sword Coast from Irmspear, subjugating the Coast's inhabitants-the orc tribes amongst them. Gaulm grew up under Xythos' regime, resenting the mighty lich for taking his freedom. Gaulm spread the seeds of rebellion, but was all too aware that despite his faction's numerical advantage, Xythos was far too powerful to be slain.~
+@2272	= ~Gaulm had began to despair of ever attaining the power necessary to cast down Xythos, but his  was able to draw the interest of a mighty god-the same god who granted me my current form. He became a Blackguard in the god's service and disappeared soon after, a disappearance that disintegrated the fledgling rebellion. But he had not ran away - he had been teleported away by his patron to fulfill a variety of tasks and services to prove his worth and hone his strength.~
+@2273	= ~Seven years after he disappeared, Gaulm returned with power to match that of Xythos, bearing a peculiarly attractive blade that was said to be as wise and witty as it was powerful. Gaulm roused the enslaved peoples of the Coast into rebellion and personally led the charge against mighty Xythos. Xythos' magics were mighty, but Gaulm's wondrous blade seemed to turn Xythos' spells aside and protect the orc from the worst of the lich's assaults. In the end, Xythos' tower - and skull - were broken and Gaulm disappeared once again.~
+@2274	= ~Some say he died in the battle with Xythos, others that he committed suicide upon realising the lich whom he had dedicated his entire life to finally defeating was finally dead, and with him Gaulm's sole purpose in life. The only clarification that  I can provide is that he certainly died shortly after the lich did - I have no memory of him past that battle.~
+@2275	= ~Would you care for another tale?~
+
+@2280	= ~Nazath Shadowbreaker was once a Paladin, a shining paragon of humanity and a revered hero said to be capable of defeating any evil that dared to stand against his Holy Avenger. As his strength grew, however, so did his pride. Nazath grew arrogant enough to declare a holy crusade against an evil god whose minions had plagued Nazath's homeland for many years. The god was infuriated beyond measure and sent his Chosen to slaughter Nazath's wife, children and everyone else who inhabited his home city. Nazath was only driven to greater hatred of the god due to this, but he began to despair when he was defeated by the god's Chosen champion.~
+@2281	= ~In the depths of his despair, Nazath was visited by a wraithlike figure wearing the face of his dead wife. She bade him be strong and offered him a beautiful blade of great power, a blade that attracted him enough to compel him to throw aside his beloved Carsomyr and take up this new weapon instead. So blinded was he with hate for the champion who slaughtered his family and humiliated him, he forgot that the original object of his crusade was the Chosen's master, not the Chosen himself. In his zeal, he began to grow more and more ruthless, alienating old friends who bid him give up his grudge.~
+@2282	= ~In the end, Lathander, his god, forsook him and he became a Fallen Paladin. The spirit resembling his wife visited him again, and told him she had the power to restore his power. He accepted, and so Nazath Shadowbreaker became an Anti-Paladin in the service of my master. He was successful in his mission to slay the champion who had taken so much from him, but his vengeance did not cease there. He went on to slay every family member, every friend, everyone who had ever aided his great foe. Only after his pillaging did his wife's spirit return to him and take off her visage to reveal a grinning imp. It was then Nazath realised all he had done, and impaled himself on the wonderful, shiny, blade he had taken up in the service of my master. At the time, I found his death delightfully amusing. That is not so now, yet I cannot bring myself to feel pity for the man.~
+
+@2290	= ~Interesting? Yes, I suppose she was rather interesting. A tiefling sellsword and bandit of some renown, Cara Grimscar was most notable for her utter lack of restraint. If she sighted a caravan of goods, she would lead an assault on it, no matter how well it may have been guarded or how weak her force was. Despite this foolhardiness, Grimscar was undeniably effective: it is a testament to her skills that despite her famed ill temper and capriciousness, she was in great demand thanks to her peerless abilities.~
+@2291	= ~As the years passed and she grew ever wealthier, Grimscar began to accept jobs that appealed to her sense of adventure rather than those that appeared lucrative. Her many feats during this time only added to her legend - but they also caused her once-loyal soldiers to desert in droves due to the huge amount of risk each adventure incurred. Grimscar soon found herself alone and unable to gather new recruits. Rather than discourage her however, this merely compelled her to attempt greater and greater solo feats, from defeating a black dragon single handedly to stealing Elminster's hat - while he was still wearing it.~
+@2292	= ~One day, while regaling an inn drunkenly with more and more ludicrous tales (although each and every one was true), her eye caught a black-armored knight carrying a beautiful sword, a sword that she immediately desired. After making a few inquiries, she learnt that the knight was known as Nazath the Shadowlord, a Blackguard with a reputation greater and more terible by far than her own-while Grimscar was known for daring adventures and feats, the Blackguard was spoken of in hushed whispers for his relentless slaughter of any poor soul who stood in the way of his unholy crusade against the man who took his family from him. Grimscar, knowing at last a challenge she could not overcome, chose instead to follow the black knight silently across the land, reasoning that she would eventually be able to take him unawares and take the sword for herself.~
+@2293	= ~Eventually, after Nazath took his own life, her wish was granted and the sword became hers. She was delighted to learn that the wondrous (and astoundingly good looking)weapon could speak to her, feeling it only added to her sense of mystique and power. The two made a dangerous pair, coupling Grimscar's natural volatility with the sword's insidious whispers pushing her to darker, more vicious acts and atrocities. Unlike the blade's previous wielder, Grimscar never felt a moment's remorse - she was only brought down when the blade's true master returned the sword to His domain, and she was caught unaware and unarmed the following morning by a Paladin seeking to punish her for her misdeeds. All things considered, she was not the worst master I've ever had. She was certainly pleasingly talkative. ~
+
+@2300	= ~I must confess that my time with the drow assassin Beread was a short one. I know very little of her past, and she was far too taciturn to share much of her nature with a blade, no matter how wondrous that blade may be.  She picked me up by accident, having just slain one of my previous wielders in the night. Before she disposed of me, a bardic companion hurriedly informed her of my great value and magical prowess. Rather than counsel keeping me, however, the bard encouraged her to make a quick sale, being canny enough to realise the link between the blade Beread had found and my patron.~
+@2301	= ~However, the adventuring party were attacked during that very night by slaughter wights given life by a servant of my master, who had found a contractor willing to pay extravagantly for my services. Ironically, it was thanks to my own abilities that Beread was able to escape the attack with her life-but her days were numbered from that day. The servant who desired my return was a man of great influence, and so Berad found fewer and fewer patrons willing to accept her service. Despite this, her pride prevented her from simply surrendering me. In the end, she was only slain when the servant entered the hunt himself, and even then only because I betrayed her by buzzing loudly in her ears to distract her mid-combat.~
+@2302	= ~You seem disappointed? In truth, I do not know what compelled me to share this particular tale with you, it is hardly one of my better yarns. Perhaps the irony of the situation-while my memory of my patron God is weak, I suspect that she reflected his ideals more truly than the cleric who struck her down.~
+
+@2310	= ~Devious does not begin to describe the man. A powerful elven mage and warrior, Valas was notable amongst my wielders for a variety of reasons. The first was his humility. Despite his incredible power and intellect, Valas far preferred to eschew the credit for his many deeds, be they fair or foul. The second was his capriciousness - or, less generously, utter madness. Valas could be as noble as the best of paladins one day, yet the next crueler and more spiteful than a demon.~
+@2311	= ~This unpredictability was why he was granted use of me, for my master found his antics amusing and wished to see his potential given even more power. The third was his proclivity towards impossibly complex machinations that seemed far too convoluted to ever work-and yet they almost always seemed to go off without a hitch. He was a wealthy man, as comfortable at a ball as he was trekking through a dungeon. Well-regarded, powerful and manipulative, it seemed to me for a time as if the madness lurking beneath his affable veneer would never be revealed.~
+@2312	= ~At the time this greatly infuriated me, for I yearned for murder and I despised Valas for his tendency towards favoring his magical methods of destruction over using me to sever a few heads. However, as the years progressed my respect for the madman began to grow as I realised the effectiveness of his preference for subtletly. I observed him as he used honeyed words to wreck more lives than a sword could ever hope to, as he manipulated friend and foe alike into carrying out his nonsensical plots.~
+@2313	= ~I believe that, alone of all my previous wielders, it was Valas who had the greatest effect on my consciousness. It was he who brought about my growing indifference with destruction-do not mistake me, I am a blade and I am all too willing to fulfil my purpose, yet no longer do I crave for bloodshed for bloodshed's sake alone. Perhaps it was his ability to spread chaos with no need for a weapon, or perhaps it was simply the effect of age finally taking it's toll upon my mind...Suddenly I begin to suspect that I am a rather poor storyteller. I fear that my tales all eventually cycle back to myself. Perhaps that is why I was made a sentient blade rather than a sentient lute, eh?~
+
+@2320	= ~My consciousness fades away to almost nothing when I am not being wielded, to prevent me going mad with loneliness I suspect. Never before has the sleep been so deep however.~
+
+@2330	= ~Very perceptive of you, wielder. As I may have told you before, I was once a slaughter-obsessed fool and yet with the benefit of ages my viewpoints are indeed somewhat altered. While I cannot deny I enjoy being wielded, now I feel my thrill derives more from being used well rather than being used to kill. I suspect that if I had been in life as I am now, my master, whomsoever he may be, would have never seen fit to grant me this immortality.~
+
+@2340	= ~It is true that my power is greatly diminished, yet I cannot perceive why. Perhaps the issue is linked to my master? Perhaps if I am able to remember his identity I may find the key to unlocking more of my old magics.~
+
+@2350	= ~Your heritage? Please elucidate, wielder.~
+@2351	= ~Actually, this isn't something that I feel you should be concerned with.~
+@2352	= ~I am the spawn of Bhaal, the dead god of murder.~
+
+@2360	= ~The...the dead god...Bhaal? Lord of Murder? Bhaal is slain? How!? When!?~
+@2361	= ~He was slain more than 20 years ago, during the Time of Troubles, a cataclysmic event that claimed the lives of all the Dead Three. He was killed by a mortal named Cyric, who went on to become the new God of Murder.~
+@2362	= ~A while ago. I don't know when. I think he was killed by another god.~
+
+@2370 	= ~This… this explains much. Bhaal must have been my patron God. Of course, it is so clear now - why else would my previous wielders share solely their violence and love for death?~
+
+@2380	= ~Which god!? No… no, that means nothing now. Regardless of his killer, he is dead. He must have been my patron, it is the only plausible solution.~
+
+@2390	= ~Suddenly I understand much of my current predicament. My lapse in existence must have been triggered by Bhaal's demise. Furthermore, my great loss of power must too be due to the fact his strength no longer sustains me.~
+@2400	= ~My soul must have been rendered catatonic, too bound to this blade to pass on to the next life and yet too weak without my master's sustenance to remain sentient. That is why I was only reawakened by your touch. You returned me to life, it is your divine spark that sustains me now. This revelation changes much. If you would be willing to channel more of your strength into me, a portion of my strength could surely be renewed.~
+@2401	= ~I think not. Such a process seems too risky.~
+@2402	= ~Very well, Animus. Let's give this a go.~
+
+@2410	= ~… As you wish, master.~
+
+@2420 	= ~That… that was a more difficult process than I had expected. Forgive me, master, but I fear my consciousness must slumber for a time while my mind comes to terms with the memories that have been restored to me...~

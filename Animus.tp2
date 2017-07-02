@@ -1,0 +1,54 @@
+BACKUP ~Animus/Backup~
+AUTHOR ~Tome & Eleandor (vanbeurden.bart@gmail.com)~
+VERSION ~v1.1~
+README ~Animus/readme.txt~
+
+LANGUAGE
+	~English~
+	~English~
+	~Animus/Lang/English/Setup.tra~
+	
+BEGIN ~Animus Weapon~
+
+COPY ~Animus/Item/E)ANIMU1.itm~ ~override~
+	SAY NAME1 @100
+	SAY NAME2 @100
+	SAY UNIDENTIFIED_DESC @102
+	SAY IDENTIFIED_DESC @102
+	
+COPY ~Animus/Item/E)ANIMU2.itm~ ~override~
+	SAY NAME1 @104
+	SAY NAME2 @104
+	SAY UNIDENTIFIED_DESC @106
+	SAY IDENTIFIED_DESC @106
+	
+COPY ~Animus/Image~ ~override~
+	
+COMPILE ~Animus/Dialog/E)ANIMUS.d~
+
+COMPILE ~Animus/Dialog/Introduction.d~
+USING	~Animus/Lang/English/Introduction.tra~
+		~Animus/Lang/%s/Introduction.tra~
+		
+COMPILE ~Animus/Dialog/Converse.d~
+USING	~Animus/Lang/English/Converse.tra~
+		~Animus/Lang/%s/Converse.tra~
+		
+COMPILE ~Animus/Dialog/Dormant.d~
+USING	~Animus/Lang/English/Dormant.tra~
+		~Animus/Lang/%s/Dormant.tra~
+		
+EXTEND_BOTTOM ~AR2613.bcs~ ~Animus/Script/AR2613.baf~
+		
+OUTER_SET label = RESOLVE_STR_REF(@200)
+
+APPEND ~ITEMDIAL.2da~
+~E)ANIMU1 %label% E)ANIMU1~
+UNLESS ~E)ANIMU1~
+
+APPEND ~ITEMDIAL.2da~
+~E)ANIMU2 %label% E)ANIMU2~
+UNLESS ~E)ANIMU2~
+		
+COPY_EXISTING ~STO4803.sto~ ~override~
+	ADD_STORE_ITEM ~E)ANIMU1~ AFTER ~SW1H04~ #0 #0 #0 ~IDENTIFIED~ #1

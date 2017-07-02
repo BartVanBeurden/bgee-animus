@@ -1,0 +1,7 @@
+IF
+	Global("E)ADialogBhaal", "GLOBAL", 0)
+THEN
+	RESPONSE #100
+		SetGlobal("E)ADialogBhaal", "GLOBAL", 1)
+		Continue()
+END
